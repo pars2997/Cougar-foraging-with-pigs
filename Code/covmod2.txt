@@ -1,0 +1,57 @@
+model
+    {
+    # Estimate parameters for staying time
+    for(i in 1:Nstay){
+    is.censored[i] ~ dinterval(stay[i],cens[i])
+    stay[i] ~ dlnorm(mean,tau)
+    }
+    mean ~ dgamma(0.01,0.01)
+    tau ~ dgamma(0.01,0.01)    
+    
+    alpha ~ dunif(0,100)
+    # alpha2 ~ dunif(0,100)
+    for(j in 1:length(cameras)){
+    u[j] ~ dgamma(alpha+0.01, alpha+0.01)
+
+    }
+    
+    # Estimate parameters for number of visits
+    for(i in 1:Ncam){
+    pcy[i]~dpois(mu[i])
+    #number of visits (y) is poisson distributed with mean based on mu
+    y[i]~dpois(mu.y[i])
+    mu.y[i]<-mu[i]*u[camID_fact[i]]
+    # # u modifies expected count for each camera. Essentially a random effect for camera
+    # # that adjust expectation from habitat alone
+    # u[i]~dgamma(alpha+0.1,alpha+0.1)
+    # 
+    #Estimate mu for each camera based on area (S), effort, density (rho), active time, and staying time parameters
+    log(mu[i])<-log(S[i])+log(eff[i])+log(rho[i])+log(actv[season.num[i]])-mean-1/(2*tau)
+    #Estimate density based on habitat covariates
+    log(rho[i])<-
+    effects[1]+
+    effects[2]*riparian_dist[i]+
+    effects[3]*grass_dist[i]+
+    effects[4]*grass_dist[i]*fall[i]+
+    effects[5]*grass_dist[i]*winter[i]+
+    effects[6]*hunting[i]+
+    effects[7]*hunting[i]*fall[i]+
+    effects[8]*riparian_dist[i]*summer[i]+
+    effects[9]*riparian_dist[i]*fall[i]+
+    effects[10]*TRI_500[i]
+    
+    }
+    # alpha~dunif(0,100)
+    effects[1] ~ dnorm(0,0.1)
+    effects[2] ~ dnorm(0,0.1)
+    effects[3] ~ dnorm(0,0.1)
+    effects[4] ~ dnorm(0,0.1)
+    effects[5] ~ dnorm(0,0.1)
+    effects[6] ~ dnorm(0,0.1)
+    effects[7] ~ dnorm(0,0.1)
+    effects[8] ~ dnorm(0,0.1)
+    effects[9] ~ dnorm(0,0.1)
+    effects[10] ~ dnorm(0,0.1)
+
+    }
+    

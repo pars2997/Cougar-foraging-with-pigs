@@ -1,0 +1,126 @@
+Date,Obs,Sample_ID,Species_1,Sp1_%,Species_2,Sp2_%,Species_3,Sp3_%,Species_4,Sp4_%,Notes,Season,Cluster,Method
+10/25/2022,RS,SF9 W21 C24,SUSC,34,UNK,66,,,,,#12,winter,Y,kill
+10/18/2022,RS,SF9 S22 C23,PRLO,10,ODHE,60,BONE,30,SUSC,T,#3,summer,Y,kill
+10/18/2022,MP,SF9 S22 C13,ODHE,90,BONE,10,PUCO,T,SUSC,T,"#5, PUCO possibly other carnivore",summer,Y,kill
+10/18/2022,RS,Unk Scat South of Shutins,CECA,40,BONE,60,PUCO,T,,,#7,summer,N,opportunistic
+10/18/2022,MP,SM6 S22 C12,SUSC,30,BONE,70,UNK1,T,,,"#8, very few haris",summer,Y,kill
+10/14/2022,RS,SF9 S22 C18,SUSC,10,BONE,90,PUCO,T,,,2 ticks,summer,Y,kill
+11/10/2022,MM,35,ODHE,65,BONE,35,PUCO,T,,,A few ticks,summer,Y,kill
+10/27/2022,MM,17,ODHE,50,BONE,50,SUSC,T,PUCO,T,A lot of bone (likely deer),winter,Y,kill
+11/17/2022,MM,27,ODHE,98,BONE,2,,,,,A lot of organic matter (leaves & twigs) SF9 S21 C42,summer,Y,kill
+3/3/2023,MM,73,SUSC,50,BONE,50,,,,,A-001,,N,dog
+3/29/2023,MM,81,LECA,95,BONE,5,,,,,"A-004, found some claws",,N,dog
+3/3/2023,MM,89,BONE,75,ODHE,25,,,,,"A-031, chunks of possible hoof",,N,dog
+2/24/2023,MM,71,ODHE,75,BONE,25,,,,,A-034,,N,dog
+3/30/2023,MM,83,ODHE,95,BONE,5,,,,,"A-070, found hoof chunks",,N,dog
+2/22/2023,MM,65,SUSC,70,BONE,30,,,,,A-073,,N,dog
+3/10/2023,MM,78,ODHE,95,BONE,5,,,,,A-078,,N,dog
+3/15/2023,MM,93,ODHE,100,BONE,T,,,,,A-082,,N,dog
+3/15/2023,MM,91,LECA,95,BONE,5,,,,,A-091,,N,dog
+3/24/2023,MM,82,BONE,60,ODHE,40,,,,,"A-094, some hoof chunks",,N,dog
+3/16/2023,MM,84,ODHE,100,,,,,,,"A-095, chunk of hoof found",,N,dog
+4/14/2023,MM,100,SUSC,100,BONE,T,,,,,B-001,,N,dog
+3/21/2023,MM,95,ODHE,60,BONE,40,,,,,"B-002, small hoof chunk",,N,dog
+3/17/2023,MM,94,LECA,90,BONE,10,,,,,B-003,,N,dog
+3/1/2023,MM,79,ODHE,85,BONE,15,,,,,B-007,,N,dog
+3/8/2023,MM,64,ODHE,70,BONE,30,,,,,B-009,,N,dog
+3/8/2023,MM,70,ODHE,60,BONE,40,,,,,B-010,,N,dog
+2/22/2023,MM,62,ODHE,100,BONE,T,,,,,B-011,,N,dog
+4/5/2023,MM,54,ODHE,100,BONE,T,,,,,"B-012, some skin with hair",,N,dog
+3/15/2023,MM,86,CALA,80,BONE,20,,,,,B-023,,N,dog
+4/17/2023,RS,98,ODHE,100,,,,,,,"B-034, blue bead?, some skin ticks",,N,dog
+4/26/2023,MM,92,CALA,90,BONE,10,,,,,B-035,,N,dog
+3/29/2023,MM,87,ODHE,90,BONE,10,,,,,B-039,,N,dog
+4/13/2023,MM,99,ODHE,50,BONE,50,,,,,B-040,,N,dog
+3/24/2023,MM,90,BONE,70,ODHE,30,,,,,B-043,,N,dog
+4/17/2023,RS,96,ODHE,100,,,,,,,B-051,,N,dog
+3/8/2023,MM,76,BONE,70,SUSC,30,,,,,B-054,,N,dog
+4/13/2023,MM,101,SUSC,90,BONE,10,,,,,B-055,,N,dog
+3/16/2023,MM,56,BONE,70,SUSC,30,,,,,B-057,,N,dog
+3/1/2023,MM,77,SUSC,50,BONE,50,,,,,B-058,,N,dog
+2/24/2023,MM,66,CALA,50,BONE,50,PUCO,T,,,B-060,,N,dog
+3/16/2023,MM,85,ODHE,80,BONE,20,,,,,B-061,,N,dog
+2/23/2023,MM,75,ODHE,95,BONE,5,,,,,"B-063, some skin found",,N,dog
+2/23/2023,MM,67,ODHE,60,BONE,40,,,,,B-065,,N,dog
+3/3/2023,MM,80,ODHE,100,BONE,T,,,,,"B-066, some skin found",,N,dog
+2/22/2023,MM,72,ODHE,95,BONE,5,,,,,B-068,,N,dog
+3/8/2023,MM,60,SUSC,50,BONE,50,PUCO,T,,,B-070,,N,dog
+3/1/2023,MM,69,ODHE,100,BONE,T,,,,,B-071,,N,dog
+3/21/2023,MM,57,LECA,100,BONE,T,,,,,B-073,,N,dog
+4/5/2023,MM,89,CALA,95,BONE,5,,,,,"B-074, found a claw",,N,dog
+3/1/2023,MM,74,ODHE,90,BONE,10,SUSC,T,,,"B-075, some pig hair, but could be contamination",,N,dog
+3/21/2023,MM,58,ODHE,50,BONE,50,,,,,B-076,,N,dog
+4/13/2023,MM,97,ODHE,95,BONE,5,,,,,B-077,,N,dog
+3/10/2023,MM,63,BONE,85,ODHE,15,SUSC,T,,,B-078,,N,dog
+3/16/2023,MM,55,ODHE,60,BONE,40,,,,,B-079,,N,dog
+3/17/2023,MM,59,SYBA,80,BONE,20,,,,,"B-082, claws",,N,dog
+3/10/2023,MM,61,ODHE,75,BONE,25,,,,,B-083,,N,dog
+3/30/2023,MM,88,BONE,98,ODHE,2,,,,,"B-084, not many hairs",,N,dog
+5/15/2024,MP,124,CACA,100,SUSC,T,,,,,Beaver. SM6 S23 C22,summer,Y,kill
+11/10/2022,MM,37,BONE,85,CALA,15,ODHE,T,,,Coyote nails with lots of bone,summer,N,day
+11/15/2022,RS,22,ODHE,80,BONE,20,SUSC,T,,,Dewclaw and tooth,winter,N,opportunistic
+5/15/2024,MP,108,ODHE,100,SCGR,T,SUSC,T,,,grey squirrel. SF9 S23 C33,summer,Y,kill
+11/1/2022,RS,SF9 W21 C25,SUSC,60,BONE (lg),35,BONE (sm),5,,,hair integrated into bone. Partial foot of neonate,winter,Y,kill
+11/20/2022,MM,33,ODHE,95,BONE,5,,,,,Hoof chunks (deer) and a tick SF9 S21 C29,summer,Y,kill
+11/10/2022,MM,521-UNK1 TA12B,LECA,95,BONE,5,PUCO,T,,,Jackrabbit nails found,summer,N,opportunistic
+12/1/2022,MM,42,ODHE,50,BONE,50,PUCO,T,,,lots of little rocks and twigs SF1 7/23/21 day,summer,N,day
+11/29/2022,MM,50,SUSC,60,BONE,40,,,,,lots of little rocks SM6 6/30/21 Day,summer,N,day
+12/9/2022,RS,53,ODHE,70,BONE,20,BONE (rodent),10,,,Many ticks SF1 S21 C25,summer,Y,kill
+10/14/2022,RS,Unk Scat TA 19 6-7-2022,,,,,,,,,mostly bones. Rodent likely ground squirrel,summer,N,opportunistic
+11/18/2022,MM,49,BONE,95,ODHE,5,,,,,"not a lot of hair, a lot of bone SF1 7/15/21 Day",,N,day
+10/14/2022,RS,SF9 S22 C21,PRLO,50,BONE,50,ODHE,T,SUSC,T,"older than cluster, tick, single deer and pig hairs",summer,Y,kill
+12/12/2022,RS,38,ODHE,70,BONE,30,,,,,SF1 7/19/21 day 16 ticks,summer,N,day
+12/9/2022,RS,52,ODHE,85,BONE,15,PUCO,T,,,SF1 A08 Teeth,,Y,kill
+11/20/2022,MM,48,ODHE,60,BONE,40,,,,,SF1 S21 C10,summer,Y,kill
+12/12/2022,RS,40,ODHE,55,BONE,45,,,,,SF1 S21 C96,summer,Y,kill
+10/25/2022,RS,11,ODHE,97,BONE,3,,,,,SF1-W21-C04,winter,Y,kill
+12/12/2022,SR,34,ODHE,70,BONE,25,BONE (sm),5,SUSC,T,SF9 7/14/21 day (potentially CECA instead of ODHE),summer,N,day
+12/2/2022,RS,44,ODHE,50,BONE,40,PLANT,5,BIRD,5,SF9 7/18/21 day Large size. Trace carnivore hair likely puco,summer,N,day
+12/1/2022,MM,47,ODHE,90,BONE,10,,,,,SF9 7/19/21 day,summer,N,day
+11/17/2022,MM,43,SUSC,90,ODHE,5,BONE,5,,,SF9 S21 C37,summer,Y,kill
+5/15/2024,MP,125,ODHE,100,,,,,,,SF9 S23 C25,summer,Y,kill
+5/15/2024,MP,122,ODHE,80,SUSC,20,BIRD,T,,,SF9 S23 C30,summer,Y,kill
+5/15/2024,MP,109,SYBA,100,SUSC,T,,,,,SF9 S23 C47,summer,Y,kill
+5/15/2024,MP,110,ODHE,90,SUSC,10,,,,,SF9 S23 C54,summer,Y,kill
+4/14/2023,MM,107,ODHE,100,BONE,T,,,,,SF9 W22 10-13,winter,Y,kill
+4/19/2023,MM,104,ODHE,100,,,,,,,SF9 W22 C07 some skin,winter,Y,kill
+4/19/2023,MM,105,ODHE,60,BONE,40,,,,,SF9 W22 C14,winter,Y,kill
+4/20/2023,MM,103,ODHE,100,BONE,T,,,,,SF9 W22 C25,winter,Y,kill
+5/15/2024,MP,127,ODHE,95,SUSC,T,,,,,SF9 W23 1025,winter,Y,kill
+5/15/2024,MP,114,ODHE,100,,,,,,,SF9 W23 1028,winter,Y,kill
+5/15/2024,MP,117,ODHE,100,,,,,,,SF9 W23 C01,winter,Y,kill
+5/15/2024,MP,118,ODHE,100,,,,,,,SF9 W23 C14,winter,Y,kill
+12/3/2022,MM,41,ODHE,95,BONE,5,,,,,SM6 7/15/21 day,,N,day
+12/9/2022,RS,46,MEGA,25,BONE,15,ODHE,60,,,"SM6 7/25/21 day Skin, feathers, and toes",summer,N,day
+12/1/2022,MM,39,SUSC,50,BONE,50,PUCO,T,,,SM6 S21 C17,summer,Y,kill
+12/2/2022,RS,45,CALA,50,BONE,70,,,,,SM6 S21 C20,summer,Y,kill
+5/15/2024,MP,103,ODHE,70,CALA,30,SUSC,T,,,SM6 S23 C02,summer,Y,kill
+5/15/2024,MP,112,ODHE,90,SUSC,10,,,,,SM6 S23 C03,summer,Y,kill
+5/15/2024,MP,116,SUSC,100,,,,,,,SM6 S23 C16,summer,Y,kill
+4/26/2023,MM,108,SUSC,75,BONE,25,,,,,SM6 W22 C16,winter,Y,kill
+4/20/2023,MM,102,SUSC,95,BONE,5,,,,,SM6 W22 C28,winter,Y,kill
+5/15/2024,MP,121,SUSC,100,,,,,,,SM6 W23 11/23 DAY,winter,N,day
+10/25/2022,RS,21,SUSC,45,PUCO,45,BONE,10,,,SM6-W21-C20,,Y,kill
+4/12/2023,MM,106,SUSC,90,BONE,10,,,,,SM6-W22-C07,winter,Y,kill
+10/18/2022,MM,Unk Scat TA 24 7-2-2022,ODHE,80,BONE,20,SUSC,T,,,Small mammal (rat/squirrel) scat,summer,N,opportunistic
+10/13/2022,MM,SF9 S22 C19,ODHE,65,Small Mammal,35,PUCO,T,,,"Small mammal = mouse or vole, 2 ticks",summer,Y,kill
+10/27/2022,MM,19,ODHE,95,BONE,5,PUCO,T,,,Some skin that wasn't digested,winter,Y,kill
+11/8/2022,MM,SF9 W21 C23,ODHE,60,BONE,40,PUCO,T,SUSC,T,Some skin that wasn't digested,winter,Y,kill
+11/10/2022,RS,15,SUSC,75,BONE (lg),20,BONE (sm),5,,,Teeth and hooves found. One tooth looks different,winter,Y,kill
+11/15/2022,MM,36,ODHE,95,PUCO,5,BONE,T,,,Ticks,summer,Y,kill
+11/29/2022,MM,28,CALA,95,BONE,5,SUSC,T,,,ticks and coyote nails SF1 S21 C32,summer,Y,kill
+12/3/2022,MM,26,BONE,60,ODHE,40,,,,,ticks SF1 S21 C32,summer,Y,kill
+11/23/2022,MM,32,ODHE,95,BONE,5,PUCO,T,,,ticks SF9 S21 C28,summer,Y,kill
+11/15/2022,RS,51,ODHE,75,BONE,20,,,,,"ticks, odd textured hairs match deer under scope",summer,Y,kill
+10/13/2022,MM,SM6 S22 C19,BONE,75,SUSC,25,PUCO,T,,,"unk cartilage, trace veg",summer,Y,kill
+5/15/2024,MP,120,ODHE,100,,,,,,,UNK S23 SAN MIGUEL CREEK SCAT,,N,opportunistic
+5/15/2024,MP,113,ODHE,100,,,,,,,UNK S23 SCAT,,N,opportunistic
+5/15/2024,MP,127,SUSC,100,,,,,,,UNK SCAT S23,,N,opportunistic
+10/25/2022,RS,16,ODHE,75,SUSC,10,BONE,15,,,W21-UNK-5,winter,N,opportunistic
+11/10/2022,RS,13,ODHE,80,BONE,20,,,,,,winter,N,opportunistic
+11/1/2022,MM,18,ODHE,95,BONE,5,PUCO,T,SUSC,T,,winter,N,opportunistic
+11/10/2022,RS,20,BONE,75,SUSC,15,ODHE,10,,,,winter,Y,kill
+10/27/2022,MM,25,SUSC,95,BONE,5,PUCO,T,,,,winter,Y,kill
+11/15/2022,MM,SF9 S21-C42,OTBE,90,BONE,10,,,,,,summer,Y,kill
+11/1/2022,RS,SF9 W21 C06,CECA,80,BONE,20,,,,,,winter,Y,kill
+11/1/2022,RS,SF9 W21 C21,SUSC,55,BONE,45,PUCO,T,,,,winter,Y,kill

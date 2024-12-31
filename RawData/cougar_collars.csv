@@ -1,0 +1,6 @@
+﻿collar_id,drop_id,vhf_freq,dropoff_date,gps_schedule_hr,vhf_beacon_start,vhf_beacon_stop,mortality_schedule,model
+44748,,161.62,,3,500,1700,24,lite
+44750,,161.59,,3,500,1700,24,lite
+44747,,161.68,,3,500,1700,24,lite
+44744,,,,3,500,1700,24,lite
+44751,,161.65,,3,500,1700,24,lite

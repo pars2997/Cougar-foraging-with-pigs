@@ -1,0 +1,8 @@
+﻿deployment_id,collar_id,cougar_id,start_date,start_day,start_month,start_year,end_date,end_cause
+1,44750,SF6,2/1/2021,1,2,2021,3/17/2021,Collar stopped transmitting
+2,44748,SF1,2/5/2021,5,2,2021,11/25/2021,Mortality
+3,44747,SM6,2/9/2021,9,2,2021,12/18/2022,Collar replaced
+4,44744,SF9,2/10/2021,10,2,2021,12/21/2022,Collar replaced
+5,44751,SF10,3/3/2021,23,3,2021,12/4/2022,Collar stopped transmitting
+6,45771,SM6,12/18/2022,18,12,2022,,
+7,44746,SF9,12/21/2022,21,12,2022,,
